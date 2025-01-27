@@ -1,0 +1,16 @@
+[project]
+name = "semantic-search-app"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "itk>=5.4.0",
+    "matplotlib>=3.10.0",
+    "nibabel>=5.3.2",
+    "opencv-python>=4.11.0.86",
+    "project-lighter>=0.0.2",
+    "streamlit-drawable-canvas>=0.9.3",
+    "streamlit-image-coordinates>=0.2.0",
+    "streamlit>=1.41.1",
+]
