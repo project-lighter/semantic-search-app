@@ -29,3 +29,7 @@ streamlit run app.py
 ```
 
 Ensure that you have an `app.py` file in the `semantic-search-app` directory which contains the Streamlit application code.
+
+
+## Screenshots
+![Screenshot](assets/ExtendedData_Fig9.png)
